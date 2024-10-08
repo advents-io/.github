@@ -1,4 +1,4 @@
-<a href="https://advents.io">
+<a href="https://advents.io/?utm_medium=social&utm_source=github&utm_campaign=advents-profile-readme">
   <img alt="Advents is the mobile attribution tool for modern apps." src="https://github.com/advents-io/docs/blob/main/misc/og.png">
 </a>
 
@@ -7,10 +7,10 @@
 <p align="center">
   The mobile attribution tool for modern apps.
   <br />
-  <a href="https://advents.io"><strong>Learn more »</strong></a>
+  <a href="https://advents.io/?utm_medium=social&utm_source=github&utm_campaign=advents-profile-readme"><strong>Learn more »</strong></a>
   <br />
   <br />
-  <a href="https://advents.io">Website</a>
+  <a href="https://advents.io/?utm_medium=social&utm_source=github&utm_campaign=advents-profile-readme">Website</a>
   ·
   <a href="https://docs.advents.io">Documentation</a>
 </p>
