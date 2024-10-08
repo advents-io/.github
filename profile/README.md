@@ -2,7 +2,7 @@
   <img alt="Advents is the mobile attribution tool for modern apps." src="https://github.com/advents-io/docs/blob/main/misc/og.png">
 </a>
 
-<h2 align="center">Advents</h3>
+<h2 align="center">Advents</h2>
 
 <p align="center">
   The mobile attribution tool for modern apps.
